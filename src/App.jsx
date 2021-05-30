@@ -84,7 +84,7 @@ function App() {
         cambiarEstado={cambiarUsuario}
         tipo="text" 
         label="Usuario"
-        placeholder="bjork123"
+        placeholder="Jhon01"
         name="usuario"
         leyendaError="El usuario tiene que ser de 4 a 16 dígitos y solo puede contener numeros, letras y guion bajo."
         expresionRegular={expresiones.usuario}
@@ -95,7 +95,7 @@ function App() {
         cambiarEstado={cambiarNombre}
         tipo="text" 
         label="Nombre"
-        placeholder="Bjork keira "
+        placeholder="Jhon pedro"
         name="Nombre"
         leyendaError="El usuario tiene que ser de 4 a 16 dígitos y solo puede contener numeros, letras y guion bajo."
         expresionRegular={expresiones.nombre}
@@ -138,7 +138,7 @@ function App() {
         cambiarEstado={cambiarTelefono}
         tipo="text" 
         label="Telefono"
-        placeholder="5555555555"
+        placeholder="+525585262343"
         name="telefono"
         leyendaError="El telefono solo puede contener numeros y el maximo son 14 dígitos."
         expresionRegular={expresiones.telefono}
