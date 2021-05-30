@@ -95,7 +95,7 @@ function App() {
         cambiarEstado={cambiarNombre}
         tipo="text" 
         label="Nombre"
-        placeholder="Jhon pedro"
+        placeholder="Jhon Martin"
         name="Nombre"
         leyendaError="El usuario tiene que ser de 4 a 16 dígitos y solo puede contener numeros, letras y guion bajo."
         expresionRegular={expresiones.nombre}
