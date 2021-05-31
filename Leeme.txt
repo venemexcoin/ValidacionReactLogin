@@ -1,0 +1,15 @@
+** usamos en este proyecto los siguientes extenciones 
+
+Esto es para usar fortawesome que son los iconos 
+1.0 npm install --save @fortawesome/react-fontawesome
+1.1 npm install --save @fortawesome/free-solid-svg-icons
+1.2 npm i --save @fortawesome/fontawesome-svg-core
+
+**  Esta componente es para Usar estilos dentro de los componetes.
+1.0 npm install --save styled-components
+
+** Usar Base de datos firebase 
+1.0 npm i firebase
+
+** Uso de Rutas en Reactive
+1.0 npm i react-router-dom
