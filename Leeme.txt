@@ -13,3 +13,6 @@ Esto es para usar fortawesome que son los iconos
 
 ** Uso de Rutas en Reactive
 1.0 npm i react-router-dom
+ 
+** Paquete para generar id Aliatorios 
+1.0 https://www.npmjs.com/package/shortid  
